@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="about_us_acerdade">Acerca de...</string>
+    <string name="app_reportes_ventas">Acerca de...</string>
 </resources>
